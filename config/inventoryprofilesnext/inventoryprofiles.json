@@ -1,0 +1,69 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "highlight_foused_items_foreground": false,
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_lock_slots_per_server": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_profiles_announcement": false,
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_disable_quick_move_throw": false,
+        "locked_slots_disable_throw_for_non_stackable": false,
+        "show_locked_slots_background": {
+            "value": false
+        },
+        "show_locked_slots_foreground": {
+            "value": false
+        },
+        "also_show_locked_slots_in_hotbar": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "auto_refill_prefer_smaller_stacks": true,
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        },
+        "visual_durability_notification": {
+            "value": false
+        },
+        "audio_durability_notification": {
+            "value": false
+        },
+        "visual_replace_success_notification": {
+            "value": false
+        },
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
+    }
+}
