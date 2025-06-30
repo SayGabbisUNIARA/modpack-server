@@ -10968,75 +10968,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "dndecor:recipes/building_blocks/brass_dash_bolt_from_ingots_brass_stonecutting": {
     "criteria": {
-      "has_blaze_powder": "2025-06-28 23:40:19 +0000"
+      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "dndecor:recipes/building_blocks/brass_flat_bolt_from_ingots_brass_stonecutting": {
     "criteria": {
-      "potion": "2025-06-28 23:43:04 +0000"
+      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/creeper_trophy": {
+  "dndecor:recipes/building_blocks/brass_floor_from_ingots_brass_stonecutting": {
     "criteria": {
-      "has_creeper_trophy": "2025-06-28 22:49:49 +0000"
+      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/spout": {
+  "dndecor:recipes/building_blocks/large_brass_chain_from_ingots_brass_stonecutting": {
     "criteria": {
-      "has_item": "2025-06-29 00:04:01 +0000"
+      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+  "dndecor:recipes/building_blocks/brass_cross_bolt_from_ingots_brass_stonecutting": {
     "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+  "dndecor:recipes/building_blocks/brass_dot_bolt_from_ingots_brass_stonecutting": {
     "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+  "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
-      "has_stone": "2025-06-28 22:49:49 +0000"
+      "has_mushrooms": "2025-06-28 22:32:31 +0000"
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/small_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+  "create:brass_casing": {
     "criteria": {
-      "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2025-06-28 22:47:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-06-28 23:21:15 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_flat_bolt_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+      "0": "2025-06-28 22:43:25 +0000"
     },
     "done": true
   },
@@ -11052,15 +11028,93 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experienced_engineer": {
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
-      "0": "2025-06-28 22:57:02 +0000"
+      "has_item": "2025-06-28 22:43:34 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
-      "lava_bucket": "2025-06-28 23:16:33 +0000"
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "createaddition:recipes/redstone/crafting/modular_accumulator": {
+    "criteria": {
+      "has_brass_casing": "2025-06-28 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-06-28 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-06-28 22:47:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-06-28 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-28 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
     },
     "done": true
   },
@@ -11076,12 +11130,6 @@
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-06-28 22:49:49 +0000"
@@ -11094,27 +11142,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-06-28 22:57:02 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/cut_stone_stairs_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-06-28 23:13:08 +0000"
     },
     "done": true
   },
@@ -11136,18 +11166,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-06-28 23:21:15 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-06-28 23:21:07 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/polished_cut_stone_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
@@ -11160,33 +11178,9 @@
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_cross_bolt_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/brass_dash_bolt_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
     },
     "done": true
   },
@@ -11199,18 +11193,6 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_dot_bolt_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
     },
     "done": true
   },
@@ -11232,39 +11214,9 @@
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/brass_flat_bolt_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/brass_floor_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:56 +0000"
     },
     "done": true
   },
@@ -11274,39 +11226,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
-  "create:copper_casing": {
-    "criteria": {
-      "0": "2025-06-29 00:04:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-06-28 22:57:02 +0000"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2025-06-28 23:21:29 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/layered_stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
     },
     "done": true
   },
@@ -11316,33 +11238,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
-    "criteria": {
-      "has_item": "2025-06-29 00:04:01 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/polished_cut_stone_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-06-28 23:21:40 +0000"
     },
     "done": true
   },
@@ -11355,18 +11253,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2025-06-28 22:53:53 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
     },
     "done": true
   },
@@ -11388,39 +11274,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-28 23:40:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-06-28 23:16:33 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/cut_stone_wall_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/large_brass_chain_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-06-28 23:15:19 +0000"
     },
     "done": true
   },
@@ -11436,39 +11292,9 @@
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/polished_cut_stone_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
-    "criteria": {
-      "has_item": "2025-06-28 22:57:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-06-28 23:40:19 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-06-28 22:32:31 +0000"
     },
     "done": true
   },
@@ -11478,81 +11304,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/experience_block": {
-    "criteria": {
-      "has_item": "2025-06-28 22:57:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-06-29 00:04:01 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "create:lava_wheel_00000": {
-    "criteria": {
-      "0": "2025-06-28 23:58:34 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/large_copper_chain_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-06-28 23:40:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_floor_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/experience_lantern": {
-    "criteria": {
-      "copper": "2025-06-29 00:04:01 +0000"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2025-06-28 22:43:25 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/brass_cross_bolt_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-06-28 23:21:40 +0000"
     },
     "done": true
   },
@@ -11562,75 +11316,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/brass_door": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/food_press": {
-    "criteria": {
-      "has_hopper": "2025-06-28 22:56:10 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/cut_stone_brick_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/stockpile_switch": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
-    "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
-    "criteria": {
-      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-06-29 00:04:01 +0000"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/brass_dot_bolt_from_ingots_brass_stonecutting": {
-    "criteria": {
-      "has_ingots_brass": "2025-06-28 22:23:49 +0000"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/cut_stone_slab_from_stone_types_stone_stonecutting": {
     "criteria": {
       "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:recipes/redstone/copper_button": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-28 22:54:32 +0000"
     },
     "done": true
   },
@@ -11652,9 +11346,273 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-06-28 22:53:53 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_flat_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_cross_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_dot_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_copper_chain_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_floor_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_dash_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-06-28 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "0": "2025-06-28 22:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-06-28 22:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-06-28 22:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-06-28 22:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-06-28 22:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-06-28 23:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-28 23:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-28 23:16:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-06-28 23:16:33 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-06-28 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-06-28 23:21:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-06-28 23:21:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-06-28 23:21:15 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-06-28 23:21:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-06-28 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-06-28 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-28 23:40:13 +0000"
     },
     "done": true
   },
@@ -11664,27 +11622,99 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_item": "2025-06-28 22:43:34 +0000"
+      "has_blaze_powder": "2025-06-28 23:40:19 +0000"
     },
     "done": true
   },
-  "createaddition:recipes/redstone/crafting/modular_accumulator": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_brass_casing": "2025-06-28 22:43:34 +0000"
+      "has_blaze_powder": "2025-06-28 23:40:19 +0000"
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/small_stone_brick_wall_from_stone_types_stone_stonecutting": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_stone_types_stone": "2025-06-28 22:49:49 +0000"
+      "has_blaze_powder": "2025-06-28 23:40:19 +0000"
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/copper_dash_bolt_from_ingots_copper_stonecutting": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_ingots_copper": "2025-06-28 22:54:32 +0000"
+      "potion": "2025-06-28 23:43:04 +0000"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-06-28 23:58:34 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-06-29 00:04:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-06-29 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-06-29 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-06-29 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_lantern": {
+    "criteria": {
+      "copper": "2025-06-29 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-06-29 00:04:01 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-06-30 03:32:34 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-06-30 02:52:15 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-06-30 01:53:30 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-06-30 03:43:32 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-06-30 02:49:06 +0000"
     },
     "done": true
   },
