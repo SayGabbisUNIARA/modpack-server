@@ -1,0 +1,34 @@
+forge.mixins.json:core.MinecraftServerMixin from mod modernfix,pl:mixin:APP:balm.neoforge.mixins.json:Minecraft
+ServerMixin from mod balm,pl:mixin:APP:cumulus_menus.mixins.json:client.MinecraftServerMixin from mod cumulus_m
+enus,pl:mixin:APP:cumulus_menus.mixins.json:common.accessor.MinecraftServerAccessor from mod cumulus_menus,pl:m
+ixin:APP:ponder-common.mixins.json:accessor.MinecraftServerAccessor from mod ponder,pl:mixin:APP:fabric-message
+-api-v1.mixins.json:MinecraftServerMixin from mod fabric_message_api_v1,pl:mixin:APP:aether.mixins.json:common.
+accessor.MinecraftServerAccessor from mod aether,pl:mixin:APP:fabric-lifecycle-events-v1.mixins.json:MinecraftS
+erverMixin from mod fabric_lifecycle_events_v1,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:MinecraftServ
+erMixin from mod fabric_resource_loader_v0,pl:mixin:A,pl:connector_pre_launch:A}
+        at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {re:mixin}
+[00:46:45] [Server thread/INFO] [co.cu.Cupboard/]: Loaded config for: betterchunkloading.json
+[00:46:45] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for dimension minecraft:ove
+rworld
+[00:46:45] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in lithium.mixins.json:collect
+ions.chunk_tickets.SortedArraySetMixin from mod lithium, previously written by org.embeddedt.modernfix.common.m
+ixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[00:46:45] [Worker-Main-1/INFO] [minecraft/LoggerChunkProgressListener]: Preparing spawn area: 0%
+[00:46:45] [Server thread/INFO] [minecraft/LoggerChunkProgressListener]: Time elapsed: 501 ms
+[00:46:45] [Server thread/INFO] [minecraft/DedicatedServer]: Done (2.614s)! For help, type "help"
+[00:46:45] [Server thread/INFO] [Moonlight/]: Generated runtime resources for 1 packs in a total of: 0 ms
+[00:46:45] [Server thread/INFO] [ne.ne.ne.se.pe.PermissionAPI/]: Successfully initialized permission handler ne
+oforge:default_handler
+[00:46:45] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
+[00:46:45] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker th
+read has been started.
+[00:46:45] [Server thread/INFO] [de.av.ne.CreateFood/]: Create: Food - Server Startup
+[00:46:45] [Advanced Display Data Manager/INFO] [de.mr.cr.CreateRailwaysNavigator/]: Advanced Display Data Mana
+ger has been started.
+[00:46:45] [CRN Train Listener Launcher/INFO] [de.mr.cr.CreateRailwaysNavigator/]: Train listener has been star
+ted.
+[00:46:49] [Server thread/INFO] [co.cu.Cupboard/]: Loaded config for: smoothchunk.json
+[00:46:49] [Server thread/INFO] [co.cu.Cupboard/]: Loaded config for: betterfpsdist.json
+[00:46:49] [Server thread/WARN] [ModernFix/]: Dedicated server took 45.806 seconds to load
+>
+>
